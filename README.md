@@ -5,4 +5,4 @@ Below are some of the projects I worked on during my bootcamp.
 
 - [Mini PROJECT.R](https://github.com/arissanbahari/AirAsiaAcademy/blob/main/MINI%20PROJECT.R) is the file where I analyse the
   college dataset and include my comments and conclusons.
-- [server.R]() and [ui.R]() are my RShiny projects for the same college dataset
+- [server.R](https://github.com/arissanbahari/AirAsiaAcademy/blob/main/server.R) and [ui.R](https://github.com/arissanbahari/AirAsiaAcademy/blob/main/ui.R) are my RShiny projects for the same college dataset
